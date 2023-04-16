@@ -11,7 +11,7 @@ export default function Document() {
           rel="stylesheet"
         />
       </Head>
-      <body>
+      <body className="scroll-smooth bg-white dark:bg-black text-black dark:text-white">
         <Main />
         <NextScript />
       </body>
